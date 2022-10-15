@@ -1,5 +1,5 @@
 # DetectPotHoles
-The backend for the Peopol App
+The backend for a mobile App
 
 ## Table of contents
 * [General info](#general-info)
