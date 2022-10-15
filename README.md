@@ -1,4 +1,4 @@
-# Peopol
+# DetectPotHoles
 The backend for the Peopol App
 
 ## Table of contents
